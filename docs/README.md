@@ -7,12 +7,15 @@ actions:
   - text: Github
     link: https://github.com/GlideWay
     type: secondary
+  - text: 快速开始
+    link: /Docs/Start
+    type: secondary
 
 features:
   - title: 项目宗旨
     details: 旨在打造一款可以让CTF像喝水一样简单的工具箱
   - title: 源代码仓库
-    details: https://github.com/GlideWay/GlideWay
+    details: https://github.com/only9464/GlideWay
 
 # footer: MIT Licensed | Copyright © 2018-present VuePress Community
 ---
